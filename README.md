@@ -33,7 +33,7 @@ Os exercícios são separados por conteúdo, e cada exercício possui, quando ap
 - Python
 - Visualg
 - GitHub
-- Draw.io (diagrams.net)
+- Canva
 
 ---
 
