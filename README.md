@@ -14,7 +14,6 @@ O objetivo é registrar meu aprendizado, desenvolver meu raciocínio lógico, ap
 - Operadores lógicos
 - Estruturas condicionais
 - Estruturas de repetição
-- Algoritmos
 - Fluxogramas
 - Python
 
